@@ -1,0 +1,26 @@
+{
+  "name": "coffeesrc",
+  "version": "1.0.3",
+  "description": "for browserify source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browserify": {
+    "transform": [
+      "coffeeify"
+    ]
+  },
+  "author": "ideodora",
+  "license": "MIT",
+  "_shasum": "f20784d5ebef0923c4615e17d292955d446ad0bb",
+  "_from": "coffeesrc@*",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ideodora/coffeesrc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ideodora/coffeesrc/issues"
+  },
+  "homepage": "https://github.com/ideodora/coffeesrc"
+}
