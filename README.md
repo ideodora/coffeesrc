@@ -1,0 +1,4 @@
+coffeesrc
+=========
+
+for browserify source
